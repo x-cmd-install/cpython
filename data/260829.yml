@@ -1,0 +1,78 @@
+about:
+  description: The Python programming language
+  license: NOASSERTION
+  homepage: https://www.python.org
+  head: d915492
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-08-29T07:28:50Z
+timeline:
+  created: 2017-02-10
+  lastCommit: 2026-08-29
+  lastRelease: ?
+popularity:
+  star: 75029
+  watcher: 1639
+  fork: 35287
+  release: 0
+  contributor: 3637
+  pullRequest: 13414
+  issue: 77864
+language:
+  Python: 41829777
+  C: 23212769
+  M4: 292716
+  C++: 255917
+  HTML: 187601
+  JavaScript: 102375
+  Shell: 86293
+  CSS: 72442
+  Batchfile: 51779
+  Makefile: 37500
+  Objective-C: 34436
+  Roff: 28927
+  PLSQL: 22886
+  PowerShell: 8886
+  Rich Text Format: 7528
+  Kotlin: 4342
+  Assembly: 3912
+  DTrace: 2017
+  TypeScript: 1290
+  CMake: 419
+  Ruby: 275
+  XSLT: 153
+  VBScript: 70
+totalLine: 66244310
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 695
+    openPR: 404
+    closedIssue: 153
+    openIssue: 247
+    commit: 447
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 3296
+    openPR: 873
+    closedIssue: 724
+    openIssue: 590
+    commit: 1858
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 5440
+    openPR: 1125
+    closedIssue: 1559
+    openIssue: 893
+    commit: 3371
+  last360d:
+    since: 2025-09-03
+    release: 0
+    mergedPR: 9389
+    openPR: 1409
+    closedIssue: 3107
+    openIssue: 1284
+    commit: 6101
