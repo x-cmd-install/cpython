@@ -441,3 +441,4 @@ checks:
     reason: SAST tool is not run on all commits -- score normalized to 7
     details:
       - 'Warn: 23 commits out of 30 are checked with a SAST tool'
+---
