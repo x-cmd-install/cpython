@@ -2,30 +2,30 @@ about:
   description: "The Python programming language"
   license: NOASSERTION
   homepage: https://www.python.org
-  head: 8f84787
+  head: d0b2e07
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:18:01Z
+  collectedAt: 2026-09-11T04:29:23Z
 timeline:
   created: 2017-02-10
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 76826
+  star: 76829
   watcher: 1645
-  fork: 35361
+  fork: 35362
   release: 0
   contributor: 3651
-  pullRequest: 76863
+  pullRequest: 76865
   issue: 78072
 language:
   Python: 42012183
-  C: 23282958
-  M4: 293967
+  C: 23283577
+  M4: 293955
   C++: 256690
   HTML: 187601
   JavaScript: 102375
@@ -46,66 +46,66 @@ language:
   Ruby: 275
   XSLT: 153
   VBScript: 70
-totalBytes: 66498929
+totalBytes: 66499536
 recent:
   last30d:
     since: 2026-08-12
     release: 0
-    mergedPR: 708
-    openPR: 413
+    mergedPR: 709
+    openPR: 414
     closedIssue: 217
     openIssue: 219
-    commit: 437
+    commit: 439
   last60d:
     since: 2026-07-13
     release: 0
-    mergedPR: 1795
-    openPR: 681
+    mergedPR: 1796
+    openPR: 682
     closedIssue: 493
     openIssue: 415
-    commit: 1069
+    commit: 1071
   last90d:
     since: 2026-06-13
     release: 0
-    mergedPR: 3170
-    openPR: 920
+    mergedPR: 3171
+    openPR: 921
     closedIssue: 777
     openIssue: 582
-    commit: 1853
+    commit: 1855
   last180d:
     since: 2026-03-15
     release: 0
-    mergedPR: 5500
-    openPR: 1196
+    mergedPR: 5501
+    openPR: 1197
     closedIssue: 1603
     openIssue: 894
-    commit: 3339
+    commit: 3341
   last360d:
     since: 2025-09-16
     release: 0
-    mergedPR: 9470
-    openPR: 1464
+    mergedPR: 9471
+    openPR: 1465
     closedIssue: 3167
     openIssue: 1286
-    commit: 6072
+    commit: 6074
   last720d:
     since: 2024-09-21
     release: 0
-    mergedPR: 17881
-    openPR: 1895
+    mergedPR: 17882
+    openPR: 1896
     closedIssue: 6792
     openIssue: 2102
-    commit: 9453
+    commit: 9454
 total:
   release: 0
-  mergedPR: 63296
-  openPR: 2618
+  mergedPR: 63297
+  openPR: 2619
   closedIssue: 71052
   openIssue: 7020
-  commit: 133096
+  commit: 133097
 ---
 path: /home/runner/.x-repo/github.com/python/cpython
-collectedAt: 2026-09-11T00:20:10Z
+collectedAt: 2026-09-11T04:31:43Z
 loc:
   Python:
     code: 933519
@@ -113,9 +113,9 @@ loc:
     blanks: 153978
     files: 2354
   C:
-    code: 514937
-    comments: 81520
-    blanks: 64748
+    code: 514947
+    comments: 81523
+    blanks: 64750
     files: 481
   ReStructuredText:
     code: 368214
@@ -303,9 +303,9 @@ loc:
     blanks: 0
     files: 1
 total:
-  code: 2278185
-  comments: 310400
-  blanks: 409550
+  code: 2278195
+  comments: 310403
+  blanks: 409552
   files: 5644
 ---
 date: "2026-09-07"
