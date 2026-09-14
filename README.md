@@ -14,14 +14,14 @@ x install cpython
 
 ## Code insight
 
-Total: **2,274,063** lines of code across **5036** files in the top 5 languages.
+Total: **2,275,989** lines of code across **5056** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 934,122 | 77,741 | 154,059 | 2355 |
-| C | 515,378 | 81,549 | 64,829 | 481 |
-| ReStructuredText | 368,282 | 0 | 149,559 | 1527 |
-| CHeader | 334,634 | 18,689 | 32,090 | 641 |
+| Python | 935,455 | 77,860 | 154,191 | 2356 |
+| C | 515,423 | 81,594 | 64,833 | 482 |
+| ReStructuredText | 368,492 | 0 | 149,591 | 1545 |
+| CHeader | 334,964 | 18,691 | 32,129 | 641 |
 | Json | 53,471 | 0 | 3 | 32 |
 
 ## OpenSSF Scorecard
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 76,863 · **Forks**: 35,375 · **Open issues**: 78,093 · **Contributors**: 3,652
+- **Stars**: 77,137 · **Forks**: 35,382 · **Open issues**: 78,102 · **Contributors**: 3,652
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 63363 · **Open PRs**: 2628 · **Closed issues**: 71075 · **Open issues**: 7018 · **Commits**: 133136
+- **Releases**: 0 · **Merged PRs**: 63416 · **Open PRs**: 2633 · **Closed issues**: 71094 · **Open issues**: 7008 · **Commits**: 133162
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 650 | 415 | 212 | 214 | 380 |
-| last60d | 2026-07-15 | 0 | 1792 | 685 | 494 | 408 | 907 |
-| 90d | 2026-06-15 | 0 | 3206 | 930 | 776 | 584 | 1791 |
-| last180d | 2026-03-17 | 0 | 5519 | 1204 | 1589 | 894 | 3286 |
-| 360d | 2025-09-18 | 0 | 9454 | 1466 | 3167 | 1284 | 6023 |
-| last720d | 2024-09-23 | 0 | 17889 | 1903 | 6785 | 2107 | 9492 |
+| 30d | 2026-08-15 | 0 | 676 | 410 | 212 | 208 | 407 |
+| last60d | 2026-07-16 | 0 | 1831 | 681 | 498 | 401 | 934 |
+| 90d | 2026-06-16 | 0 | 3235 | 932 | 772 | 583 | 1818 |
+| last180d | 2026-03-18 | 0 | 5540 | 1210 | 1588 | 894 | 3313 |
+| 360d | 2025-09-19 | 0 | 9490 | 1471 | 3165 | 1285 | 6050 |
+| last720d | 2024-09-24 | 0 | 17891 | 1906 | 6780 | 2106 | 9493 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cpython lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:49:30Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:50:07Z._
